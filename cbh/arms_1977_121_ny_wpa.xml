@@ -5,10 +5,10 @@
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>New York City WPA historical survey of Indigenous People of Brooklyn</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <corpname rules="aacr" source="naf">United States. Works Projects Administration (New York, N.Y.)</corpname>
     </origination>
-    <origination label="Creator">
+    <origination label="creator">
       <persname role="com" rules="aacr" source="naf">MacLeod, William Christie</persname>
     </origination>
     <unitid>1977.121</unitid>

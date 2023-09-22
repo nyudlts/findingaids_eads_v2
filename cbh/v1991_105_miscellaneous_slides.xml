@@ -16,8 +16,8 @@
       <language langcode="eng">English</language>
 .    </langmaterial>
     <container altrender="Medium Flat Box 26" id="aspace_1f41bac47aed4fcccb6df5315a41d7f1" label="Graphic Materials" type="Box">Slides by Accession 3</container>
-    <container id="aspace_19a7c9ec621b9ce2e07891e20271e040" parent="aspace_1f41bac47aed4fcccb6df5315a41d7f1" type="Box">6</container>
-    <container id="aspace_11fb5c4ed15db74f34ffdd6bfcf10aff" parent="aspace_19a7c9ec621b9ce2e07891e20271e040" type="item">V1991.105.1-10</container>
+    <container parent="aspace_1f41bac47aed4fcccb6df5315a41d7f1" type="Box">6</container>
+    <container parent="aspace_1f41bac47aed4fcccb6df5315a41d7f1" type="item">V1991.105.1-10</container>
   </did>
   <prefercite id="aspace_298c10e5bea23c0166defc338149cdeb">
     <head>Preferred Citation</head>

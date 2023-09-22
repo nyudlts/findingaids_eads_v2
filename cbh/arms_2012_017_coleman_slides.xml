@@ -8,7 +8,7 @@
     <origination label="source">
       <persname role="dnr" source="local">Coleman, William Roger</persname>
     </origination>
-    <origination label="Creator">
+    <origination label="creator">
       <persname role="pht" source="local">Coleman, William Roger</persname>
     </origination>
     <unitid>2012.017</unitid>
@@ -22,7 +22,7 @@
       <language langcode="eng">English</language>
 .    </langmaterial>
     <container altrender="Medium Flat Box 26" id="aspace_c6b70d19b0169e758800a6eafeb2cdd1" label="Graphic Materials" type="Box">Slides by Accession 4</container>
-    <container id="aspace_bd19fed1da4ee3c2343ec3dd97d60d28" parent="aspace_c6b70d19b0169e758800a6eafeb2cdd1" type="Box">6</container>
+    <container parent="aspace_c6b70d19b0169e758800a6eafeb2cdd1" type="Box">6</container>
   </did>
   <otherfindaid id="aspace_5cbf3e8a50f02bd4b9dd2549f2acb817">
     <head>Other Finding Aids</head>

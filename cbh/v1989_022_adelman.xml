@@ -5,7 +5,7 @@
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Bob Adelman photographs of Brooklyn Congress of Racial Equality (CORE) demonstrations</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname role="pht" rules="aacr" source="naf">Adelman, Bob</persname>
     </origination>
     <unitid>V1989.022</unitid>
@@ -19,8 +19,8 @@
       <language langcode="eng">English</language>
 .    </langmaterial>
     <container altrender="Medium Flat Box 26" id="aspace_fc50c642912253471b1fd3e71099b43e" label="Graphic Materials" type="Box">Slides by Accession 3</container>
-    <container id="aspace_459624775a8b11c951b75b1e940f4816" parent="aspace_fc50c642912253471b1fd3e71099b43e" type="Box">4</container>
-    <container id="aspace_8012aead09c7d06667d75a9aa64137ea" parent="aspace_459624775a8b11c951b75b1e940f4816" type="item">V1989.22.2, 5-17</container>
+    <container parent="aspace_fc50c642912253471b1fd3e71099b43e" type="Box">4</container>
+    <container parent="aspace_fc50c642912253471b1fd3e71099b43e" type="item">V1989.22.2, 5-17</container>
   </did>
   <scopecontent id="aspace_38ebf4cbdb3cd9c69c0f59dbb0f6ab39">
     <head>Scope and Contents</head>

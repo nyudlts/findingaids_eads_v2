@@ -5,10 +5,10 @@
       <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
     </repository>
     <unittitle>Jay Allen and Barbara Tuchman Chronology of the Spanish Civil War</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname source="naf">Tuchman, Barbara W. (Barbara Wertheim), 1912-1989</persname>
     </origination>
-    <origination label="Creator">
+    <origination label="creator">
       <persname source="naf">Allen, Jay, 1900-1972</persname>
     </origination>
     <unitid>ALBA.180</unitid>
@@ -45,6 +45,6 @@
     <genreform source="aat">Manuscripts for publication.</genreform>
     <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939.</geogname>
   </controlaccess>
-  <dsc><c id="aspace_07401b431d9247c9d777a48a40a232d7" level="file"><did><unittitle>Manuscript Fragments</unittitle><unitdate datechar="creation" normal="1940/1972" type="inclusive">circa 1940s-1972</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3368b78ce8002809e9e2d0d62dd80156" label="Mixed Materials [31142062754679]" type="Box">1</container><container id="aspace_4a6266c220a345c3df2436cf29801783" parent="aspace_3368b78ce8002809e9e2d0d62dd80156" type="Folder">1-5</container></did></c><c id="aspace_7b84e0a6c400357527bc533e11411460" level="file"><did><unittitle>Chronology: February - November 1936</unittitle><unitdate datechar="creation" normal="1940/1972" type="inclusive">circa 1940s-1972</unitdate><container altrender="OS Flat Box - 20" id="aspace_ef5e8e01bffa94aff510d28dfa760a8c" label="Mixed Materials [31142062838894]" type="Box">2</container><container id="aspace_3ba8a6ff1fc5ad7f9f019aabe1e62cad" parent="aspace_ef5e8e01bffa94aff510d28dfa760a8c" type="Folder">1-9</container></did></c></dsc>
+  <dsc><c id="aspace_07401b431d9247c9d777a48a40a232d7" level="file"><did><unittitle>Manuscript Fragments</unittitle><unitdate datechar="creation" normal="1940/1972" type="inclusive">circa 1940s-1972</unitdate><container altrender="Manuscript box - Legal - Half" id="aspace_3368b78ce8002809e9e2d0d62dd80156" label="Mixed Materials [31142062754679]" type="Box">1</container><container parent="aspace_3368b78ce8002809e9e2d0d62dd80156" type="Folder">1-5</container></did></c><c id="aspace_7b84e0a6c400357527bc533e11411460" level="file"><did><unittitle>Chronology: February - November 1936</unittitle><unitdate datechar="creation" normal="1940/1972" type="inclusive">circa 1940s-1972</unitdate><container altrender="OS Flat Box - 20" id="aspace_ef5e8e01bffa94aff510d28dfa760a8c" label="Mixed Materials [31142062838894]" type="Box">2</container><container parent="aspace_ef5e8e01bffa94aff510d28dfa760a8c" type="Folder">1-9</container></did></c></dsc>
 </archdesc>
 </ead>

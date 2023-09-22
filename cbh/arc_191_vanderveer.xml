@@ -5,7 +5,7 @@
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Adrian Vanderveer Martense collection</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname rules="dacs" source="local">Martense, Adrian V. (Adrian Vanderveer)</persname>
     </origination>
     <unitid>ARC.191</unitid>
@@ -25,8 +25,8 @@
     <container altrender="Medium Flat Box 3" id="aspace_3a8b9931aa7177e1b99ca6aba9816b3b" label="Mixed Materials" type="Oversize">ARC. 191 OS Box 2 of 2</container>
     <container altrender="Glass Negatives" id="aspace_a2efb8e034e5f0894b344677a3ff75a6" label="Graphic Materials" type="Box">3</container>
     <container altrender="Medium Flat Box 26" id="aspace_6b4ca4b53d6064b576e92962bf12b4c4" label="Graphic Materials" type="Box">Slides by Accession 1</container>
-    <container id="aspace_35984f629e7d1b3132e04d31821bf30a" parent="aspace_6b4ca4b53d6064b576e92962bf12b4c4" type="Box">1</container>
-    <container id="aspace_f1caaa0b695d0070c997dc68d07ce71d" parent="aspace_35984f629e7d1b3132e04d31821bf30a" type="item">V1974.7.102</container>
+    <container parent="aspace_6b4ca4b53d6064b576e92962bf12b4c4" type="Box">1</container>
+    <container parent="aspace_6b4ca4b53d6064b576e92962bf12b4c4" type="item">V1974.7.102</container>
     <container altrender="Full Manuscript Box Legal" id="aspace_70ce2700c085e1e49b20f915ce560db3" label="Graphic Materials" type="Box">Prints by Accession 36</container>
     <container altrender="Full Manuscript Box Legal" id="aspace_b81b133e7f881ebff50dca79d5f9d264" label="Graphic Materials" type="Box">Prints by Accession 51</container>
   </did>

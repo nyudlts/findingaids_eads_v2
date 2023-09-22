@@ -5,7 +5,7 @@
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Donald L. Nowlan Brooklyn collection</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname role="pht" rules="dacs" source="local">Nowlan, Donald L.</persname>
     </origination>
     <unitid>ARC.120</unitid>
@@ -21,12 +21,12 @@
     <container id="aspace_b062a0e61540695918c5e4592012ea29" label="Graphic Materials" type="Box">Postcards</container>
     <container id="aspace_27243f2a6c8c7695c3f99327d07e9ece" label="Graphic Materials" type="Box">Postcards</container>
     <container altrender="Medium Flat Box 26" id="aspace_6a4d0e1516d5f6939d408934c780044b" label="Graphic Materials" type="Box">Slides by Accession 3</container>
-    <container id="aspace_92ab361eafccdb2696a5b2c444343333" parent="aspace_6a4d0e1516d5f6939d408934c780044b" type="Box">5</container>
-    <container id="aspace_c14fdda97140fc5118ff2969febf1560" parent="aspace_92ab361eafccdb2696a5b2c444343333" type="item">V1990.2.1-103</container>
+    <container parent="aspace_6a4d0e1516d5f6939d408934c780044b" type="Box">5</container>
+    <container parent="aspace_6a4d0e1516d5f6939d408934c780044b" type="item">V1990.2.1-103</container>
     <container altrender="Full Manuscript Box Legal" id="aspace_55651999d3fc34f8c21aff4452fb78dd" label="Mixed Materials" type="Box">A0053</container>
     <container altrender="Medium Flat Box 26" id="aspace_40eb4d9d5dba75e8a247e9058aa35946" label="Graphic Materials" type="Box">Slides by Accession 3</container>
-    <container id="aspace_192b9446f091f79fb3d185034c57ad18" parent="aspace_40eb4d9d5dba75e8a247e9058aa35946" type="Box">6</container>
-    <container id="aspace_808e9e70d4c4a21d7ef3d48dc92a96fa" parent="aspace_192b9446f091f79fb3d185034c57ad18" type="item">V1990.2.104-165</container>
+    <container parent="aspace_40eb4d9d5dba75e8a247e9058aa35946" type="Box">6</container>
+    <container parent="aspace_40eb4d9d5dba75e8a247e9058aa35946" type="item">V1990.2.104-165</container>
   </did>
   <bioghist id="aspace_fec32f058a893744fe602ad2795f7963">
     <head>Biographical note</head>

@@ -5,7 +5,7 @@
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Otto Dreschmeyer Brooklyn slides</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname rules="dacs" source="local">Dreschmeyer, Otto</persname>
     </origination>
     <unitid>V1988.012</unitid>
@@ -20,11 +20,11 @@
 .    </langmaterial>
     <container altrender="Full Manuscript Box Legal" id="aspace_9479206b6b783097057029d2305b244c" label="Graphic Materials" type="Box">Slides: V1988.001 Box 1 of 1; V1988.012 Box 1 of 1</container>
     <container altrender="Medium Flat Box 26" id="aspace_af7e50cdcdc2306a10888ba43df59a84" label="Graphic Materials" type="Box">Slides by Accession 3</container>
-    <container id="aspace_8051aa89bfbcd231d4186bf8391764b7" parent="aspace_af7e50cdcdc2306a10888ba43df59a84" type="Box">1</container>
-    <container id="aspace_d98c41bf39c1cb564d208526e79a5c70" parent="aspace_8051aa89bfbcd231d4186bf8391764b7" type="item">V1988.12.1-113</container>
+    <container parent="aspace_af7e50cdcdc2306a10888ba43df59a84" type="Box">1</container>
+    <container parent="aspace_af7e50cdcdc2306a10888ba43df59a84" type="item">V1988.12.1-113</container>
     <container altrender="Medium Flat Box 26" id="aspace_beabc03503e423984fef12b247f0a675" label="Graphic Materials" type="Box">Slides by Accession 3</container>
-    <container id="aspace_24c23abc0163fea68626ddb1aeedf65c" parent="aspace_beabc03503e423984fef12b247f0a675" type="Box">2</container>
-    <container id="aspace_a0bff08dfefb563882c3b968a2ed7002" parent="aspace_24c23abc0163fea68626ddb1aeedf65c" type="item">V1988.12.114-157</container>
+    <container parent="aspace_beabc03503e423984fef12b247f0a675" type="Box">2</container>
+    <container parent="aspace_beabc03503e423984fef12b247f0a675" type="item">V1988.12.114-157</container>
   </did>
   <scopecontent id="aspace_02c689c87e362dcd6f51d176b9cda962">
     <head>Scope and Contents</head>

@@ -17,8 +17,8 @@
 .    </langmaterial>
     <container altrender="Shoe Box 14" id="aspace_0ebe75a185b23246bd82a6ba5150614f" label="Graphic Materials" type="Box">V1974.038 Box 1 of 1</container>
     <container altrender="Medium Flat Box 26" id="aspace_16b996a3ffc823af0f4285d73105a783" label="Graphic Materials" type="Box">Slides by Accession 1</container>
-    <container id="aspace_7f83affb62a5594a495478e294dfd04b" parent="aspace_16b996a3ffc823af0f4285d73105a783" type="Box">1</container>
-    <container id="aspace_8c5837df8de4ac5d6e6db51aa117b1a7" parent="aspace_7f83affb62a5594a495478e294dfd04b" type="item">V1974.38.1-6, 8-15</container>
+    <container parent="aspace_16b996a3ffc823af0f4285d73105a783" type="Box">1</container>
+    <container parent="aspace_16b996a3ffc823af0f4285d73105a783" type="item">V1974.38.1-6, 8-15</container>
   </did>
   <accessrestrict id="aspace_945a8aafed20f73607c1da745b39f3f6">
     <head>Conditions Governing Access</head>

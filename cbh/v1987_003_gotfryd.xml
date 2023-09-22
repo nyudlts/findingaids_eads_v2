@@ -5,7 +5,7 @@
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Bernard Gotfryd color slides and photographs</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname role="pht" rules="aacr" source="naf">Gotfryd, Bernard</persname>
     </origination>
     <unitid>V1987.003</unitid>
@@ -21,8 +21,8 @@
     <container id="aspace_725446075effbc55d67698265eede3e3" label="Graphic Materials" type="Box">OS 10</container>
     <container altrender="Full Manuscript Box Legal" id="aspace_285872a55b92a0dbe0e5f88cbdc6e6d4" label="Graphic Materials" type="Box">Prints by Accession 51</container>
     <container altrender="Medium Flat Box 26" id="aspace_261e399b24318a4af43c5d4f6a9b6c58" label="Graphic Materials" type="Box">Slides by Accession 2</container>
-    <container id="aspace_6157dabca6ad54d53ff3717bb686fe18" parent="aspace_261e399b24318a4af43c5d4f6a9b6c58" type="Box">6</container>
-    <container id="aspace_c316c984404ca7c82ad2154a19d7814a" parent="aspace_6157dabca6ad54d53ff3717bb686fe18" type="item">V1987.3.25-171</container>
+    <container parent="aspace_261e399b24318a4af43c5d4f6a9b6c58" type="Box">6</container>
+    <container parent="aspace_261e399b24318a4af43c5d4f6a9b6c58" type="item">V1987.3.25-171</container>
   </did>
   <bioghist id="aspace_09a8ec046b3a42178f8295c0763fd383">
     <head>Biographical note</head>

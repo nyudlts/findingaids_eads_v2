@@ -5,7 +5,7 @@
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Daniel M.C. Hopping collection of Long Island Historical Society photographs and slides</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname role="pht" rules="dacs" source="naf">Hopping, D. M. C.</persname>
     </origination>
     <unitid>V1988.052</unitid>
@@ -20,8 +20,8 @@
 .    </langmaterial>
     <container altrender="Full Manuscript Box Legal" id="aspace_4286bca538c8b408d5e37dedf35dd88d" label="Graphic Materials" type="Box">Prints by Accession 55</container>
     <container altrender="Medium Flat Box 26" id="aspace_708ce8692a686e0375df64bf42c86f72" label="Graphic Materials" type="Box">Slides by Accession 3</container>
-    <container id="aspace_3bc55c14a242b4c26d8c828c18a245db" parent="aspace_708ce8692a686e0375df64bf42c86f72" type="Box">4</container>
-    <container id="aspace_24b9b5844e1ba9cc89559209ea5f072e" parent="aspace_3bc55c14a242b4c26d8c828c18a245db" type="item">V1988.52.5-10</container>
+    <container parent="aspace_708ce8692a686e0375df64bf42c86f72" type="Box">4</container>
+    <container parent="aspace_708ce8692a686e0375df64bf42c86f72" type="item">V1988.52.5-10</container>
   </did>
   <scopecontent id="aspace_89714ba2d9050647a38bdf591c7b2ddc">
     <head>Scope and Contents</head>

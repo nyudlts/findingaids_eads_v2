@@ -5,7 +5,7 @@
       <corpname>New York University Archives</corpname>
     </repository>
     <unittitle>Records of the Office of the President, Linda G. Mills</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <corpname rules="dacs" source="local">New York University. Office of the President</corpname>
     </origination>
     <unitid>RG.3.0.14</unitid>
@@ -58,6 +58,6 @@ https://www.youtube.com/watch?v=D27LgJhhcu0 were added. The accession number ass
     <persname source="naf">Mills, Linda G.</persname>
     <corpname authfilenumber="(lccn)n79058487" source="naf">New York University</corpname>
   </controlaccess>
-  <dsc></dsc>
+  <dsc/>
 </archdesc>
 </ead>

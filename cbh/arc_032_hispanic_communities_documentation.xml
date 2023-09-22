@@ -24,8 +24,8 @@
     <container altrender="Full Manuscript Box Legal" id="aspace_9fb88ba0d1cca1ca77d593f5bfb9ea18" label="Text" type="Box">ARC.032 4 of 5</container>
     <container altrender="Full Manuscript Box Legal" id="aspace_017f6d585afbdbab022a315413267a53" label="Mixed Materials" type="Box">ARC.032 5 of 5</container>
     <container altrender="Medium Flat Box 26" id="aspace_5edc0708a5fef815fd1eb78a270f9e17" label="Graphic Materials" type="Box">Slides by Accession 3</container>
-    <container id="aspace_6ad381306cb60168894f3184fea0f75f" parent="aspace_5edc0708a5fef815fd1eb78a270f9e17" type="Box">4</container>
-    <container id="aspace_f1ef8adafa151643de7686e63ac861ea" parent="aspace_6ad381306cb60168894f3184fea0f75f" type="item">V1989.2.3.4-28, V1989.2.3.12.1-6</container>
+    <container parent="aspace_5edc0708a5fef815fd1eb78a270f9e17" type="Box">4</container>
+    <container parent="aspace_5edc0708a5fef815fd1eb78a270f9e17" type="item">V1989.2.3.4-28, V1989.2.3.12.1-6</container>
     <container altrender="Large Flat Box" id="aspace_58b4516fc5b4f65ad4461f6821b5c431" label="Mixed Materials" type="Box">OS-24</container>
   </did>
   <bioghist id="aspace_8b1b4d9493d978250a50aa14534014b2">

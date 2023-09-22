@@ -5,7 +5,7 @@
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Ken Wicht photograph collection</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname role="pht" rules="dacs" source="local">Wicht, Ken</persname>
     </origination>
     <unitid>ARC.220</unitid>
@@ -20,8 +20,8 @@
 .    </langmaterial>
     <container id="aspace_4201ec0adc741191a3ee13d5bd4b4983" label="Graphic Materials" type="Folder">Misc. negatives binder</container>
     <container altrender="Medium Flat Box 26" id="aspace_7d06e8683d445c8d21a85fe52d82a033" label="Graphic Materials" type="Box">Slides by Accession 3</container>
-    <container id="aspace_9ff75effb7bf6562c3d3494f35c600e9" parent="aspace_7d06e8683d445c8d21a85fe52d82a033" type="Box">6</container>
-    <container id="aspace_24522255cd159f74558d2f4c1b68dc58" parent="aspace_9ff75effb7bf6562c3d3494f35c600e9" type="item">V1991.104.1-6</container>
+    <container parent="aspace_7d06e8683d445c8d21a85fe52d82a033" type="Box">6</container>
+    <container parent="aspace_7d06e8683d445c8d21a85fe52d82a033" type="item">V1991.104.1-6</container>
     <container altrender="Full Manuscript Box Legal" id="aspace_d3a1d5518a98eccf2a0bcd317badfbfe" label="Graphic Materials" type="Box">Prints by accession 42</container>
   </did>
   <accessrestrict id="aspace_2b5881ad9d99d193084dee9c585fee45">

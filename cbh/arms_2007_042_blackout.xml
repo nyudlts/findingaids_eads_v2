@@ -20,8 +20,8 @@
       <language langcode="eng">English</language>
 .    </langmaterial>
     <container altrender="Medium Flat Box 26" id="aspace_87d1f8e510301adc84b3f3b6bc7b01d8" label="Graphic Materials" type="Box">Slides by Accession 4</container>
-    <container id="aspace_ea3ebf24180620f5c18cdb41ead797a9" parent="aspace_87d1f8e510301adc84b3f3b6bc7b01d8" type="Box">5</container>
-    <container id="aspace_ea452dcee97504f92578b81876645e81" parent="aspace_ea3ebf24180620f5c18cdb41ead797a9" type="item">V2007.42.1-139</container>
+    <container parent="aspace_87d1f8e510301adc84b3f3b6bc7b01d8" type="Box">5</container>
+    <container parent="aspace_87d1f8e510301adc84b3f3b6bc7b01d8" type="item">V2007.42.1-139</container>
   </did>
   <accessrestrict id="aspace_59e4f0d2ab5d41ba85ed4698b27f4909">
     <head>Conditions Governing Access</head>

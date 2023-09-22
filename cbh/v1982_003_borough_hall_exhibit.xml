@@ -5,7 +5,7 @@
       <corpname>Brooklyn Historical Society</corpname>
     </repository>
     <unittitle>Borough Hall: Mirror of Change exhibit photograph collection</unittitle>
-    <origination label="Creator">
+    <origination label="creator">
       <persname role="cur" rules="aacr" source="naf">Willensky, Elliot</persname>
     </origination>
     <unitid>V1982.003</unitid>
@@ -21,8 +21,8 @@
     <container altrender="Full Manuscript Box Legal" id="aspace_c565e17409b6cfd86f6331f7df78a8cc" label="Graphic Materials" type="Box">Prints by Accession 44</container>
     <container altrender="Full Manuscript Box Legal" id="aspace_63f69b1a90ef32cccf792edae307fad0" label="Graphic Materials" type="Box">Medium Format Negatives 11</container>
     <container altrender="Medium Flat Box 26" id="aspace_14f1451a9bc734d807d477a357ee41a4" label="Graphic Materials" type="Box">Slides by Accession 1</container>
-    <container id="aspace_3d30384c83dcc6a4dd0a6c56dbc2325e" parent="aspace_14f1451a9bc734d807d477a357ee41a4" type="Box">1</container>
-    <container id="aspace_c1ae51c129c4e009c261c4c1145d04ea" parent="aspace_3d30384c83dcc6a4dd0a6c56dbc2325e" type="item">V1982.3.1-2, 8-9, 15, 17, 26, 28, 30-33, 35-37, 39-42, 44-46</container>
+    <container parent="aspace_14f1451a9bc734d807d477a357ee41a4" type="Box">1</container>
+    <container parent="aspace_14f1451a9bc734d807d477a357ee41a4" type="item">V1982.3.1-2, 8-9, 15, 17, 26, 28, 30-33, 35-37, 39-42, 44-46</container>
   </did>
   <scopecontent id="aspace_e51796b6495ea653b9a8f12892779d9a">
     <head>Scope and Contents</head>
